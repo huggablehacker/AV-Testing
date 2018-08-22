@@ -1,4 +1,4 @@
-'blinky lock button script
+'blinky lock button script, use kill-blinky.bat to stop process.
 Set wshShell =wscript.CreateObject("WScript.Shell")
 do
 wscript.sleep 100
